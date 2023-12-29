@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitVideo", "SplitVideo\SplitVideo.csproj", "{77ECC86E-CC63-46C4-B6C8-A3686B849065}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SplitVideoSetip", "SplitVideoSetip\SplitVideoSetip.vdproj", "{23BFE89C-B8D4-440C-A60F-3C98DD2BAFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77ECC86E-CC63-46C4-B6C8-A3686B849065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ECC86E-CC63-46C4-B6C8-A3686B849065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ECC86E-CC63-46C4-B6C8-A3686B849065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ECC86E-CC63-46C4-B6C8-A3686B849065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BFE89C-B8D4-440C-A60F-3C98DD2BAFC3}.Debug|Any CPU.ActiveCfg = Debug
+		{23BFE89C-B8D4-440C-A60F-3C98DD2BAFC3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3980F1B2-6E32-4C4C-8A9B-AE5369429EEE}
+	EndGlobalSection
+EndGlobal
